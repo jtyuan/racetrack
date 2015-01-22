@@ -1,0 +1,9 @@
+# ignore compiled result
+gem5.opt
+gem5.build
+build/*
+build_opts/*
+
+# ignore benchmark files
+cpu2006/*
+
